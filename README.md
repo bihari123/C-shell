@@ -157,4 +157,5 @@ Using loops, each directory is opened and stat() checks if the lscommand is ther
 
 This is the final product, after doing error handling with perror() and counting the promp’t loop for printing:
 
+for code suggestion, look: https://github.com/brenns10/lsh/blob/407938170e8b40d231781576e05282a41634848c/src/main.c
 
